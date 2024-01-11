@@ -56,3 +56,11 @@ Para visualizar a Pokedex, abra o arquivo `index.html` no seu navegador preferid
 Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Divirta-se explorando a Pokedex! 🎮✨
+
+## Siga-me
+
+- [Linkedin](https://www.linkedin.com/in/ronatas-fernando-diniz-17020514a/)
+  
+## Contato
+
+- Email: ronatas.diniz@gmail.com
