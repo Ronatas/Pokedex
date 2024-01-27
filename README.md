@@ -44,7 +44,6 @@ A Pokedex apresenta uma lista de Pokémon, cada um representado como um item de 
 
 Aqui está um exemplo de como um Pokémon é apresentado na Pokedex:
 
-```html
 <li class="pokemon">
     <span class="number">#001</span>
     <span class="name">Bulbasaur</span>
